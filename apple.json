@@ -42,5 +42,93 @@
     { "id": "iphone", "color": "深紫色", "price": 52400, "storage": "1TB", "mainpic": "deeppurple.jpg","picture":"circle-deeppurple.jpg" },
     { "id": "iphone", "color": "金色", "price": 52400, "storage": "1TB", "mainpic": "gold.jpg","picture":"circle-gold.jpg" },
     { "id": "iphone", "color": "銀色", "price": 52400, "storage": "1TB", "mainpic": "silver.jpg","picture":"circle-silver.jpg" },
-    { "id": "iphone", "color": "太空黑色", "price": 52400, "storage": "1TB", "mainpic": "black.jpg","picture":"circle-black.jpg" }
+    { "id": "iphone", "color": "太空黑色", "price": 52400, "storage": "1TB", "mainpic": "black.jpg","picture":"circle-black.jpg" },
+
+
+     { "id": "mac", "color": "太空灰色", "price": 39900, "storage": "8GB","SSD":"256GB","size":"13吋","mainpic": "spacegray.jpg","picture":"circle-space-gray.png" },
+    { "id": "mac", "color": "銀色", "price": 39900, "storage": "8GB","SSD":"256GB", "size":"13吋","mainpic": "Msilver.jpg","picture":"circle-silver.jpg" },
+     { "id": "mac", "color": "太空灰色", "price": 39900, "storage": "8GB","SSD":"256GB","size":"14吋","mainpic": "spacegray.jpg","picture":"circle-space-gray.png" },
+    { "id": "mac", "color": "銀色", "price": 39900, "storage": "8GB","SSD":"256GB", "size":"14吋","mainpic": "Msilver.jpg","picture":"circle-silver.jpg" },
+     { "id": "mac", "color": "太空灰色", "price": 39900, "storage": "8GB","SSD":"256GB","size":"15吋","mainpic": "spacegray.jpg","picture":"circle-space-gray.png" },
+    { "id": "mac", "color": "銀色", "price": 39900, "storage": "8GB","SSD":"256GB", "size":"15吋","mainpic": "Msilver.jpg","picture":"circle-silver.jpg"},
+
+     { "id": "mac", "color": "太空灰色", "price": 45900, "storage": "8GB","SSD":"512GB","size":"13吋","mainpic": "spacegray.jpg","picture":"circle-space-gray.png" },
+    { "id": "mac", "color": "銀色", "price": 45900, "storage": "8GB","SSD":"512GB", "size":"13吋","mainpic": "Msilver.jpg","picture":"circle-silver.jpg" },
+     { "id": "mac", "color": "太空灰色", "price": 45900, "storage": "8GB","SSD":"512GB","size":"14吋","mainpic": "spacegray.jpg","picture":"circle-space-gray.png" },
+    { "id": "mac", "color": "銀色", "price": 45900, "storage": "8GB","SSD":"512GB", "size":"14吋","mainpic": "Msilver.jpg","picture":"circle-silver.jpg" },
+     { "id": "mac", "color": "太空灰色", "price": 45900, "storage": "8GB","SSD":"512GB","size":"15吋","mainpic": "spacegray.jpg","picture":"circle-space-gray.png" },
+    { "id": "mac", "color": "銀色", "price": 45900, "storage": "8GB","SSD":"512GB", "size":"15吋","mainpic": "Msilver.jpg","picture":"circle-silver.jpg"},
+
+      { "id": "mac", "color": "太空灰色", "price": 51900, "storage": "8GB","SSD":"1TB","size":"13吋","mainpic": "spacegray.jpg","picture":"circle-space-gray.png" },
+    { "id": "mac", "color": "銀色", "price": 51900, "storage": "8GB","SSD":"1TB", "size":"13吋","mainpic": "Msilver.jpg","picture":"circle-silver.jpg" },
+     { "id": "mac", "color": "太空灰色", "price": 51900, "storage": "8GB","SSD":"1TB","size":"14吋","mainpic": "spacegray.jpg","picture":"circle-space-gray.png" },
+    { "id": "mac", "color": "銀色", "price": 51900, "storage": "8GB","SSD":"1TB", "size":"14吋","mainpic": "Msilver.jpg","picture":"circle-silver.jpg" },
+     { "id": "mac", "color": "太空灰色", "price": 51900, "storage": "8GB","SSD":"1TB","size":"15吋","mainpic": "spacegray.jpg","picture":"circle-space-gray.png" },
+    { "id": "mac", "color": "銀色", "price": 51900, "storage": "8GB","SSD":"1TB", "size":"15吋","mainpic": "Msilver.jpg","picture":"circle-silver.jpg"},
+
+      { "id": "mac", "color": "太空灰色", "price": 51900, "storage": "8GB","SSD":"2TB","size":"13吋","mainpic": "spacegray.jpg","picture":"circle-space-gray.png" },
+    { "id": "mac", "color": "銀色", "price": 51900, "storage": "8GB","SSD":"2TB", "size":"13吋","mainpic": "Msilver.jpg","picture":"circle-silver.jpg" },
+     { "id": "mac", "color": "太空灰色", "price": 51900, "storage": "8GB","SSD":"2TB","size":"14吋","mainpic": "spacegray.jpg","picture":"circle-space-gray.png" },
+    { "id": "mac", "color": "銀色", "price": 51900, "storage": "8GB","SSD":"2TB", "size":"14吋","mainpic": "Msilver.jpg","picture":"circle-silver.jpg" },
+     { "id": "mac", "color": "太空灰色", "price": 51900, "storage": "8GB","SSD":"2TB","size":"15吋","mainpic": "spacegray.jpg","picture":"circle-space-gray.png" },
+    { "id": "mac", "color": "銀色", "price": 51900, "storage": "8GB","SSD":"2TB", "size":"15吋","mainpic": "Msilver.jpg","picture":"circle-silver.jpg"},
+    
+
+    { "id": "mac", "color": "太空灰色", "price": 45900, "storage": "16GB","SSD":"256GB","size":"13吋","mainpic": "spacegray.jpg","picture":"circle-space-gray.png" },
+    { "id": "mac", "color": "銀色", "price": 45900, "storage": "16GB","SSD":"256GB", "size":"13吋","mainpic": "Msilver.jpg","picture":"circle-silver.jpg" },
+     { "id": "mac", "color": "太空灰色", "price": 45900, "storage": "16GB","SSD":"256GB","size":"14吋","mainpic": "spacegray.jpg","picture":"circle-space-gray.png" },
+    { "id": "mac", "color": "銀色", "price": 45900, "storage": "16GB","SSD":"256GB", "size":"14吋","mainpic": "Msilver.jpg","picture":"circle-silver.jpg" },
+     { "id": "mac", "color": "太空灰色", "price": 45900, "storage": "16GB","SSD":"256GB","size":"15吋","mainpic": "spacegray.jpg","picture":"circle-space-gray.png" },
+    { "id": "mac", "color": "銀色", "price": 45900, "storage": "16GB","SSD":"256GB", "size":"15吋","mainpic": "Msilver.jpg","picture":"circle-silver.jpg"},
+
+    { "id": "mac", "color": "太空灰色", "price": 51900, "storage": "16GB","SSD":"512GB","size":"13吋","mainpic": "spacegray.jpg","picture":"circle-space-gray.png" },
+    { "id": "mac", "color": "銀色", "price": 51900, "storage": "16GB","SSD":"512GB", "size":"13吋","mainpic": "Msilver.jpg","picture":"circle-silver.jpg" },
+     { "id": "mac", "color": "太空灰色", "price": 51900, "storage": "16GB","SSD":"512GB","size":"14吋","mainpic": "spacegray.jpg","picture":"circle-space-gray.png" },
+    { "id": "mac", "color": "銀色", "price": 51900, "storage": "16GB","SSD":"512GB", "size":"14吋","mainpic": "Msilver.jpg","picture":"circle-silver.jpg" },
+     { "id": "mac", "color": "太空灰色", "price": 51900, "storage": "16GB","SSD":"512GB","size":"15吋","mainpic": "spacegray.jpg","picture":"circle-space-gray.png" },
+    { "id": "mac", "color": "銀色", "price": 51900, "storage": "16GB","SSD":"512GB", "size":"15吋","mainpic": "Msilver.jpg","picture":"circle-silver.jpg"},
+
+     { "id": "mac", "color": "太空灰色", "price": 57900, "storage": "16GB","SSD":"1TB","size":"13吋","mainpic": "spacegray.jpg","picture":"circle-space-gray.png" },
+    { "id": "mac", "color": "銀色", "price": 57900, "storage": "16GB","SSD":"1TB", "size":"13吋","mainpic": "Msilver.jpg","picture":"circle-silver.jpg" },
+     { "id": "mac", "color": "太空灰色", "price": 57900, "storage": "16GB","SSD":"1TB","size":"14吋","mainpic": "spacegray.jpg","picture":"circle-space-gray.png" },
+    { "id": "mac", "color": "銀色", "price": 57900, "storage": "16GB","SSD":"1TB", "size":"14吋","mainpic": "Msilver.jpg","picture":"circle-silver.jpg" },
+     { "id": "mac", "color": "太空灰色", "price": 57900, "storage": "16GB","SSD":"1TB","size":"15吋","mainpic": "spacegray.jpg","picture":"circle-space-gray.png" },
+    { "id": "mac", "color": "銀色", "price": 57900, "storage": "16GB","SSD":"1TB", "size":"15吋","mainpic": "Msilver.jpg","picture":"circle-silver.jpg"},
+
+     { "id": "mac", "color": "太空灰色", "price": 69900, "storage": "16GB","SSD":"2TB","size":"13吋","mainpic": "spacegray.jpg","picture":"circle-space-gray.png" },
+    { "id": "mac", "color": "銀色", "price": 69900, "storage": "16GB","SSD":"2TB", "size":"13吋","mainpic": "Msilver.jpg","picture":"circle-silver.jpg" },
+     { "id": "mac", "color": "太空灰色", "price": 69900, "storage": "16GB","SSD":"2TB","size":"14吋","mainpic": "spacegray.jpg","picture":"circle-space-gray.png" },
+    { "id": "mac", "color": "銀色", "price": 69900, "storage": "16GB","SSD":"2TB", "size":"14吋","mainpic": "Msilver.jpg","picture":"circle-silver.jpg" },
+     { "id": "mac", "color": "太空灰色", "price": 69900, "storage": "16GB","SSD":"2TB","size":"15吋","mainpic": "spacegray.jpg","picture":"circle-space-gray.png" },
+    { "id": "mac", "color": "銀色", "price": 69900, "storage": "16GB","SSD":"2TB", "size":"15吋","mainpic": "Msilver.jpg","picture":"circle-silver.jpg"},
+    
+
+    { "id": "mac", "color": "太空灰色", "price": 51900, "storage": "24GB","SSD":"256GB","size":"13吋","mainpic": "spacegray.jpg","picture":"circle-space-gray.png" },
+    { "id": "mac", "color": "銀色", "price": 51900, "storage": "24GB","SSD":"256GB", "size":"13吋","mainpic": "Msilver.jpg","picture":"circle-silver.jpg" },
+     { "id": "mac", "color": "太空灰色", "price": 51900, "storage":"24GB","SSD":"256GB","size":"14吋","mainpic": "spacegray.jpg","picture":"circle-space-gray.png" },
+    { "id": "mac", "color": "銀色", "price": 51900, "storage": "24GB","SSD":"256GB", "size":"14吋","mainpic": "Msilver.jpg","picture":"circle-silver.jpg" },
+     { "id": "mac", "color": "太空灰色", "price": 51900, "storage": "24GB","SSD":"256GB","size":"15吋","mainpic": "spacegray.jpg","picture":"circle-space-gray.png" },
+    { "id": "mac", "color": "銀色", "price": 51900, "storage": "24GB","SSD":"256GB", "size":"15吋","mainpic": "Msilver.jpg","picture":"circle-silver.jpg"},
+
+    { "id": "mac", "color": "太空灰色", "price": 57900, "storage": "24GB","SSD":"512GB","size":"13吋","mainpic": "spacegray.jpg","picture":"circle-space-gray.png" },
+    { "id": "mac", "color": "銀色", "price": 57900, "storage": "24GB","SSD":"512GB", "size":"13吋","mainpic": "Msilver.jpg","picture":"circle-silver.jpg" },
+     { "id": "mac", "color": "太空灰色", "price": 57900, "storage":"24GB","SSD":"512GB","size":"14吋","mainpic": "spacegray.jpg","picture":"circle-space-gray.png" },
+    { "id": "mac", "color": "銀色", "price": 57900, "storage": "24GB","SSD":"512GB", "size":"14吋","mainpic": "Msilver.jpg","picture":"circle-silver.jpg" },
+     { "id": "mac", "color": "太空灰色", "price": 57900, "storage": "24GB","SSD":"512GB","size":"15吋","mainpic": "spacegray.jpg","picture":"circle-space-gray.png" },
+    { "id": "mac", "color": "銀色", "price": 57900, "storage": "24GB","SSD":"512GB", "size":"15吋","mainpic": "Msilver.jpg","picture":"circle-silver.jpg"},
+
+    { "id": "mac", "color": "太空灰色", "price": 63900, "storage": "24GB","SSD":"1TB","size":"13吋","mainpic": "spacegray.jpg","picture":"circle-space-gray.png" },
+    { "id": "mac", "color": "銀色", "price": 63900, "storage": "24GB","SSD":"1TB", "size":"13吋","mainpic": "Msilver.jpg","picture":"circle-silver.jpg" },
+     { "id": "mac", "color": "太空灰色", "price": 63900, "storage":"24GB","SSD":"1TB","size":"14吋","mainpic": "spacegray.jpg","picture":"circle-space-gray.png" },
+    { "id": "mac", "color": "銀色", "price": 63900, "storage": "24GB","SSD":"1TB", "size":"14吋","mainpic": "Msilver.jpg","picture":"circle-silver.jpg" },
+     { "id": "mac", "color": "太空灰色", "price": 63900, "storage": "24GB","SSD":"1TB","size":"15吋","mainpic": "spacegray.jpg","picture":"circle-space-gray.png" },
+    { "id": "mac", "color": "銀色", "price": 63900, "storage": "24GB","SSD":"1TB", "size":"15吋","mainpic": "Msilver.jpg","picture":"circle-silver.jpg"},
+
+    { "id": "mac", "color": "太空灰色", "price": 75900, "storage": "24GB","SSD":"2TB","size":"13吋","mainpic": "spacegray.jpg","picture":"circle-space-gray.png" },
+    { "id": "mac", "color": "銀色", "price": 75900, "storage": "24GB","SSD":"2TB", "size":"13吋","mainpic": "Msilver.jpg","picture":"circle-silver.jpg" },
+     { "id": "mac", "color": "太空灰色", "price": 75900, "storage":"24GB","SSD":"2TB","size":"14吋","mainpic": "spacegray.jpg","picture":"circle-space-gray.png" },
+    { "id": "mac", "color": "銀色", "price": 75900, "storage": "24GB","SSD":"2TB", "size":"14吋","mainpic": "Msilver.jpg","picture":"circle-silver.jpg" },
+     { "id": "mac", "color": "太空灰色", "price": 75900, "storage": "24GB","SSD":"2TB","size":"15吋","mainpic": "spacegray.jpg","picture":"circle-space-gray.png" },
+    { "id": "mac", "color": "銀色", "price": 75900, "storage": "24GB","SSD":"2TB", "size":"15吋","mainpic": "Msilver.jpg","picture":"circle-silver.jpg"}
+
 ]

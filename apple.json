@@ -17,30 +17,30 @@
     { "id": "ipad", "color": "藍色", "price": 24900, "storage": "64GB", "network": "Cellular", "mainpic": "blue.jpg","picture":"circle-blue.png" },
     { "id": "ipad", "color": "紫色", "price": 24900, "storage": "64GB", "network": "Cellular", "mainpic": "purple.jpg","picture": "circle-purple.png"},
     
-    { "id": "ipad", "color": "太空灰色", "price": 29900, "storage": "256GB", "network": "Cellular", "mainpic": "space-gray.jpg","color-picture":"circle-space-gray.png" },
-    { "id": "ipad", "color": "粉紅色", "price": 29900, "storage": "256GB", "network": "Cellular", "mainpic": "ipink.jpg","color-picture":"circle-pink.png" },
-    { "id": "ipad", "color": "星光色", "price": 29900, "storage": "256GB", "network": "Cellular", "mainpic": "starlight.jpg","color-picture":"circle-starlight.png" },
-    { "id": "ipad", "color": "藍色", "price": 29900, "storage": "256GB", "network": "Cellular", "mainpic": "blue.jpg","color-picture":"circle-blue.png" },
-    { "id": "ipad", "color": "紫色", "price": 29900, "storage": "256GB", "network": "Cellular", "mainpic": "purple.jpg","color-picture":"circle-purple.png" },
+    { "id": "ipad", "color": "太空灰色", "price": 29900, "storage": "256GB", "network": "Cellular", "mainpic": "space-gray.jpg","picture":"circle-space-gray.png" },
+    { "id": "ipad", "color": "粉紅色", "price": 29900, "storage": "256GB", "network": "Cellular", "mainpic": "ipink.jpg","picture":"circle-pink.png" },
+    { "id": "ipad", "color": "星光色", "price": 29900, "storage": "256GB", "network": "Cellular", "mainpic": "starlight.jpg","picture":"circle-starlight.png" },
+    { "id": "ipad", "color": "藍色", "price": 29900, "storage": "256GB", "network": "Cellular", "mainpic": "blue.jpg","picture":"circle-blue.png" },
+    { "id": "ipad", "color": "紫色", "price": 29900, "storage": "256GB", "network": "Cellular", "mainpic": "purple.jpg","picture":"circle-purple.png" },
 
 
-    { "id": "iphone", "color": "深紫色", "price": 34900, "storage": "128GB", "picture": "deeppurple.jpg" },
-    { "id": "iphone", "color": "金色", "price": 34900, "storage": "128GB","picture": "gold.jpg" },
-    { "id": "iphone", "color": "銀色", "price": 34900, "storage": "128GB", "picture": "silver.jpg" },
-    { "id": "iphone", "color": "太空黑色", "price": 34900, "storage": "128GB","picture": "black.jpg" },
+    { "id": "iphone", "color": "深紫色", "price": 34900, "storage": "128GB", "mainpic": "deeppurple.jpg","picture":"circle-deeppurple.jpg" },
+    { "id": "iphone", "color": "金色", "price": 34900, "storage": "128GB","mainpic": "gold.jpg","picture":"circle-gold.jpg" },
+    { "id": "iphone", "color": "銀色", "price": 34900, "storage": "128GB", "mainpic": "silver.jpg","picture":"circle-silver.jpg" },
+    { "id": "iphone", "color": "太空黑色", "price": 34900, "storage": "128GB","mainpic": "black.jpg","picture":"circle-black.jpg" },
 
-    { "id": "iphone", "color": "深紫色", "price": 38400, "storage": "256GB",  "picture": "deeppurple.jpg" },
-    { "id": "iphone", "color": "金色", "price": 38400, "storage": "256GB", "picture": "gold.jpg" },
-    { "id": "iphone", "color": "銀色", "price": 38400, "storage": "256GB", "picture": "silver.jpg" },
-    { "id": "iphone", "color": "太空黑色", "price": 38400, "storage": "256GB", "picture": "black.jpg" },
+    { "id": "iphone", "color": "深紫色", "price": 38400, "storage": "256GB",  "mainpic": "deeppurple.jpg","picture":"circle-deeppurple.jpg" },
+    { "id": "iphone", "color": "金色", "price": 38400, "storage": "256GB", "mainpic": "gold.jpg","picture":"circle-gold.jpg" },
+    { "id": "iphone", "color": "銀色", "price": 38400, "storage": "256GB", "mainpic": "silver.jpg","picture":"circle-silver.jpg" },
+    { "id": "iphone", "color": "太空黑色", "price": 38400, "storage": "256GB", "mainpic": "black.jpg","picture":"circle-black.jpg" },
 
-    { "id": "iphone", "color": "深紫色", "price": 45400, "storage": "512GB", "picture": "deeppurple.jpg" },
-    { "id": "iphone", "color": "金色", "price": 45400, "storage": "512GB", "picture": "gold.jpg" },
-    { "id": "iphone", "color": "銀色", "price": 45400, "storage": "512GB","picture": "silver.jpg" },
-    { "id": "iphone", "color": "太空黑色", "price": 45400, "storage": "512GB", "picture": "black.jpg" },
+    { "id": "iphone", "color": "深紫色", "price": 45400, "storage": "512GB", "mainpic": "deeppurple.jpg","picture":"circle-deeppurple.jpg" },
+    { "id": "iphone", "color": "金色", "price": 45400, "storage": "512GB", "mainpic": "gold.jpg","picture":"circle-gold.jpg" },
+    { "id": "iphone", "color": "銀色", "price": 45400, "storage": "512GB","mainpic": "silver.jpg","picture":"circle-silver.jpg" },
+    { "id": "iphone", "color": "太空黑色", "price": 45400, "storage": "512GB", "mainpic": "black.jpg","picture":"circle-black.jpg" },
 
-    { "id": "iphone", "color": "深紫色", "price": 52400, "storage": "1TB", "picture": "deeppurple.jpg" },
-    { "id": "iphone", "color": "金色", "price": 52400, "storage": "1TB", "picture": "gold.jpg" },
-    { "id": "iphone", "color": "銀色", "price": 52400, "storage": "1TB", "picture": "silver.jpg" },
-    { "id": "iphone", "color": "太空黑色", "price": 52400, "storage": "1TB", "picture": "black.jpg" }
+    { "id": "iphone", "color": "深紫色", "price": 52400, "storage": "1TB", "mainpic": "deeppurple.jpg","picture":"circle-deeppurple.jpg" },
+    { "id": "iphone", "color": "金色", "price": 52400, "storage": "1TB", "mainpic": "gold.jpg","picture":"circle-gold.jpg" },
+    { "id": "iphone", "color": "銀色", "price": 52400, "storage": "1TB", "mainpic": "silver.jpg","picture":"circle-silver.jpg" },
+    { "id": "iphone", "color": "太空黑色", "price": 52400, "storage": "1TB", "mainpic": "black.jpg","picture":"circle-black.jpg" }
 ]

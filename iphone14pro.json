@@ -1,0 +1,23 @@
+[
+    { "id": "A001", "color": "深紫色", "price": 34900, "storage": "128GB", "picture": "purple.jpg" },
+    { "id": "A002", "color": "金色", "price": 34900, "storage": "128GB","picture": "gold" },
+    { "id": "A003", "color": "銀色", "price": 34900, "storage": "128GB", "picture": "silver.jpg" },
+    { "id": "A004", "color": "太空黑色", "price": 34900, "storage": "128GB","picture": "black.jpg" },
+
+    { "id": "A001", "color": "深紫色", "price": 38400, "storage": "256GB",  "picture": "purple.jpg" },
+    { "id": "A002", "color": "金色", "price": 38400, "storage": "256GB", "picture": "gold.jpg" },
+    { "id": "A003", "color": "銀色", "price": 38400, "storage": "256GB", "picture": "silver.jpg" },
+    { "id": "A004", "color": "太空黑色", "price": 38400, "storage": "256GB", "picture": "black.jpg" },
+
+    { "id": "A001", "color": "深紫色", "price": 45400, "storage": "512GB", "picture": "purple.jpg" },
+    { "id": "A002", "color": "金色", "price": 45400, "storage": "512GB", "picture": "gold.jpg" },
+    { "id": "A003", "color": "銀色", "price": 45400, "storage": "512GB","picture": "silver.jpg" },
+    { "id": "A004", "color": "太空黑色", "price": 45400, "storage": "512GB", "picture": "black.jpg" },
+
+    { "id": "A001", "color": "深紫色", "price": 52400, "storage": "1TB", "picture": "purple.jpg" },
+    { "id": "A002", "color": "金色", "price": 52400, "storage": "1TB", "picture": "gold.jpg" },
+    { "id": "A003", "color": "銀色", "price": 52400, "storage": "1TB", "picture": "silver.jpg" },
+    { "id": "A004", "color": "太空黑色", "price": 52400, "storage": "1TB", "picture": "black.jpg" },
+    
+   
+]

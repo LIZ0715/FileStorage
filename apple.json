@@ -24,8 +24,8 @@
     { "id": "ipad", "color": "紫色", "price": 29900, "storage": "256GB", "network": "Cellular", "mainpic": "purple.jpg","color-picture":"circle-purple.png" },
 
 
-     { "id": "iphone", "color": "深紫色", "price": 34900, "storage": "128GB", "picture": "deeppurple.jpg" },
-    { "id": "iphone", "color": "金色", "price": 34900, "storage": "128GB","picture": "gold" },
+    { "id": "iphone", "color": "深紫色", "price": 34900, "storage": "128GB", "picture": "deeppurple.jpg" },
+    { "id": "iphone", "color": "金色", "price": 34900, "storage": "128GB","picture": "gold.jpg" },
     { "id": "iphone", "color": "銀色", "price": 34900, "storage": "128GB", "picture": "silver.jpg" },
     { "id": "iphone", "color": "太空黑色", "price": 34900, "storage": "128GB","picture": "black.jpg" },
 

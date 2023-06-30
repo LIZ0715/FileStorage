@@ -1,4 +1,5 @@
-[   { "id": "ipad", "color": "太空灰色", "price": 19900, "storage": "64GB", "network": "Wi-Fi", "mainpic": "space-gray.jpg","picture":"circle-space-gray.png" },
+[   
+    { "id": "ipad", "color": "太空灰色", "price": 19900, "storage": "64GB", "network": "Wi-Fi", "mainpic": "space-gray.jpg","picture":"circle-space-gray.png" },
     { "id": "ipad", "color": "粉紅色", "price": 19900, "storage": "64GB", "network": "Wi-Fi", "mainpic": "ipink.jpg","picture": "circle-pink.png"},
     { "id": "ipad", "color": "星光色", "price": 19900, "storage": "64GB", "network": "Wi-Fi", "mainpic": "starlight.jpg","picture": "circle-starlight.png"},
     { "id": "ipad", "color": "藍色", "price": 19900, "storage": "64GB", "network": "Wi-Fi", "mainpic": "blue.jpg","picture":"circle-blue.png"},
@@ -41,5 +42,5 @@
     { "id": "iphone", "color": "深紫色", "price": 52400, "storage": "1TB", "picture": "deeppurple.jpg" },
     { "id": "iphone", "color": "金色", "price": 52400, "storage": "1TB", "picture": "gold.jpg" },
     { "id": "iphone", "color": "銀色", "price": 52400, "storage": "1TB", "picture": "silver.jpg" },
-    { "id": "iphone", "color": "太空黑色", "price": 52400, "storage": "1TB", "picture": "black.jpg" },
+    { "id": "iphone", "color": "太空黑色", "price": 52400, "storage": "1TB", "picture": "black.jpg" }
 ]
